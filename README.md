@@ -37,22 +37,6 @@ Welcome to my GitHub profile. I’m passionate about building fun, useful, and c
 
 ---
 
-## 🌐 Connect with Me
-
-- [LinkedIn](#) <!-- Add your LinkedIn URL -->
-- [Twitter/X](#) <!-- Add your Twitter/X URL -->
-- [Personal Website](#) <!-- Add your website URL -->
-
----
-
-## 🎨 Fun Facts
-
-- 🎮 I love building and playing games.
-- ✈️ Enjoy exploring new cultures and cuisines.
-- 📚 Avid reader and tech blogger.
-
----
-
 ## 🤝 Let’s Collaborate!
 
 Open to collaborating on exciting projects, learning opportunities, and hackathons. Feel free to open an issue or pull request, or connect with me through my social links!
