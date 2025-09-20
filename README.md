@@ -1,4 +1,4 @@
-# Hi there, I'm Ridhii! 👋
+# Hi there, I'm Ridhi! 👋
 
 Welcome to my GitHub profile. I’m passionate about building fun, useful, and creative projects with code. Here’s a little about me:
 
