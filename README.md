@@ -26,7 +26,6 @@ Welcome to my GitHub profile. I’m passionate about building fun, useful, and c
 - [Portfolio](https://github.com/ridhii17/Portfolio): My personal web portfolio showcasing my skills and projects.
 - [AI Image Generator](https://github.com/ridhii17/AI---Image---Generator): Generate stunning images using the power of AI.
 - [3D Cube Game](https://github.com/ridhii17/3D-Cube-Game): A fun 3D game project exploring graphics programming.
-- [Mini Game Collection](https://github.com/ridhii17/-Mini-Game-Collection): A suite of mini-games built for learning and entertainment.
 
 ---
 
